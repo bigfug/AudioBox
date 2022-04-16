@@ -1,6 +1,8 @@
 # AudioBox
 An app for VJ's that attempts to detect the beat of music in realtime
 
+![AudioBoxBaby-Preview](https://user-images.githubusercontent.com/8349802/163669114-8971bc57-53ec-4446-9bba-53f0ee7cf052.png)
+
 AudioBox was created back in the 2000's when I was an active VJ.  I very much liked the ability to trigger video clips synchronised to the beat and wondered if it would be possible to have a small helper application that monitored an incoming live music signal, detected the beat, and sent a MIDI signal to synchronise to the music automatically.
 
 This is what AudioBoxBaby does - an almost commercial project that I never fully released because - it turns out - that accurate beat detection is difficult.  Once you get the algorithm tuned for a certain style of music, it often performs less well on other kinds.  Basically, it's a tinkering nightmare and I spent so many weeks working on this, tweaking and testing and never really satisfied with the result, which is why I never progressed with it.
